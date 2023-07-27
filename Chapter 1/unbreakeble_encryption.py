@@ -26,6 +26,3 @@ if __name__ == "__main__":
     print(f"key 1: {key1}, key 2: {key2}")
     result: str = decrypt(key1, key2)
     print(result)
-
-
-# TODO: DECRYPT function
