@@ -22,7 +22,6 @@ def calculate_pi_lazy() -> float:
         denominator += 2.0
 
 
-
 if __name__ == "__main__":
     print(calculate_pi(150000))
     lazy = calculate_pi_lazy()
